@@ -1,0 +1,265 @@
+@font-face {
+  font-family: montserrat;
+  src: url(montserrat/Montserrat-Thin.ttf);
+}
+
+
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  text-decoration: none;
+  list-style: none;
+  color: white;
+  box-sizing: border-box;
+  letter-spacing: 0.06em;
+  font-family: Montserrat;
+}
+
+a {
+  display: block;
+}
+
+h5 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+body {
+  background: black;
+  width: 1440px;
+}
+
+header {
+  position: sticky;
+  left: 0px;
+  top: 0px;
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  background: black;
+  height: 64px;
+  z-index: 10;
+}
+
+.title {
+  background: -webkit-linear-gradient(90deg, #FF33AD, #27D8FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+#logo_title {
+  width: 114px;
+  height: 40px;
+  margin-left: 114px;
+  margin-top: 8px;
+  /* border: 1px solid red; */
+}
+
+#logo_title img {
+  float: left;
+  width: 54px;
+  height: 46px;
+}
+
+#logo_title p {
+  font-size: 16px;
+  float: left;
+  width: 60px;
+  height: 40px;
+  margin-top: 4px;
+  line-height: 16px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* margin-left: 260px; */
+  width: 700px;
+}
+
+nav a {
+    font-size: 16px;
+    font-weight: 600;
+    align-items: center;
+    align-self: center;
+
+    line-height: 18px;
+}
+
+#contacts {
+  margin-right: 114px;
+  margin-top: 16px;
+  font-size: 12px;
+}
+
+#contacts a {
+  text-align: right;
+}
+
+main {
+  background-image: linear-gradient(145deg, #000000 0%, #000000 40%, #006981 60%, #FF33AD);
+  padding-bottom: 260px;  /* keep free space after all elements */
+}
+
+
+#main_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#main_content h1 {
+  margin-top: 122px;
+  font-size: 74px;
+}
+
+ h2 {
+  font-size: 36px;
+}
+
+#main_content img {
+  width: 310px;
+  height: 310px;
+  margin-top: 20px;
+}
+
+.tg_bot_link {
+  width: 210px;
+  height: 50px;
+  line-height: 50px;
+  margin: 12px auto;
+  background-image: linear-gradient(90deg, #27D8FF, #FF33AD);
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 24px;
+}
+
+#about span {
+  color: #FF33AD;
+}
+
+.topic {
+  margin: 0 180px;
+}
+
+.topic h3 {
+  margin-top: 136px;
+  margin-bottom: 64px;
+  font-size: 36px;
+  font-weight: 900;
+}
+
+.topic h4 {
+  text-align: left;
+  margin-top: 32px;
+  font-size: 24px;
+  color: #FF33AD;
+}
+
+.topic p {
+  text-align: justify;
+  font-size: 24px;
+}
+
+.team .wrapper_team_member {
+  display: flex;
+  justify-content: space-between;
+}
+
+.team .team_member {
+  width: 230px;
+  height: 600px;
+  position: relative;
+  border: 1px solid black;
+}
+
+.team .team_member img {
+  width: 208px;
+  height: 208px;
+  border-radius: 100%;
+}
+
+.team .team_member h5 {
+  margin-top: 16px;
+  text-align: left;
+  font-weight: bold;
+  border: 1px solid black;
+}
+
+.team .team_member p {
+  font-size: 18px;
+  margin-top: 28px;
+  height: 280px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+.team .team_member h6 {
+  text-align: left;
+  font-size: 16px;
+  position: absolute;
+  bottom: 0;
+}
+
+#future_team h4 {
+  color: white;
+  margin-top: -40px;
+}
+
+#future_team h4 + .wrapper_team_member {
+  margin-top: 64px;
+}
+
+#future_team + .tg_bot_link {
+  margin-top: 64px;
+}
+
+#progress {
+
+}
+
+#progress div {
+    background: #666666;
+    width: 1120px;
+    border-radius: 24px;
+}
+
+#progress .item {
+    width: 1000px;
+    margin: auto;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#progress .item time {
+  float: left;
+}
+
+#progress .item span {
+  float: right;
+}
+
+#progress .item p {
+  margin-top: 20px;
+  font-weight: normal;
+  float: left;
+}
+
+#progress .item img {
+  width: 1000px;
+  height: 400px;
+  border-radius: 24px;
+  object-fit: cover;
+  object-position: top;
+}
