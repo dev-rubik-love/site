@@ -1,0 +1,1391 @@
+/* Main Part */
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 24px;
+	background: linear-gradient(175.68deg, #000000 12.33%, #006981 55.66%, #FF33AD 144.97%);
+	color: #fff;
+	overflow-x: hidden;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+	letter-spacing: 0.06em;
+    text-decoration: none;
+    list-style: none;
+	/* border: 1px solid red; */
+}
+
+li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+ul {
+    margin-left: 0; 
+    padding-left: 0;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+	font-weight: 600;
+	font-size: 15px;
+	letter-spacing: 0.06em;
+	text-transform: lowercase;
+}
+
+h2{
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 44px;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+h3{
+	font-weight: 700;
+	font-size: 18px;
+}
+
+h4{
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+p{
+	font-weight: 400;
+	line-height: 29px;
+	letter-spacing: 0.02em;
+}
+
+
+.main-btn{
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 29px;
+	letter-spacing: 0.02em;
+	background-image: linear-gradient(91.37deg, #27D8FF 0%, #FF33AD 100%);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 24px;
+	padding: 10px 16px;
+}
+
+/* Containers */
+.main-container{
+	width: 1312px;
+	margin: 0 auto;
+}
+
+.container{
+	width: 1090px;
+	margin: 0 auto;
+}
+/* End Containers */
+
+/* End Main Part */
+
+/* Header */
+.header{
+	display: block;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
+.header::before{
+	position: absolute;
+	z-index: 9999;
+	content: "";
+	display: block;
+	width: 100%;
+	background: #000;
+	height: 64px;
+}
+
+.wrapper-header{
+	display: flex;
+	align-items: center;
+	padding: 10px 64px 0px 64px;
+}
+
+.nav ul {
+    display: flex;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.top-nav{
+	display: flex;
+	width: 100%;
+	z-index: 10000;
+}
+
+.nav{
+	width: 100%;
+	display: flex;
+}
+
+.nav .contacts{
+	margin-left: auto;
+	text-align: right;
+}
+
+.nav-list li:not(:last-child){
+	margin-right: 24px;
+}
+
+.logo{
+	margin-right: 100px;
+}
+
+.contacts{
+	display: flex;
+	flex-direction: column;
+	margin-left: auto;
+}
+
+.contacts *{
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 15px;
+	text-align: right;
+	letter-spacing: 0.06em;
+	text-transform: lowercase;
+}
+
+/* Hamburger */
+
+.hamburger{
+	display: none;
+}
+
+.nav-hamburger{
+	display: none;
+}
+
+.navigation {
+	display: none;
+}
+/* End Hamburger */
+
+/* End Header */
+
+/* Offer */
+.offer{
+	margin: 130px 0px;
+}
+
+.wrapper-offer{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.wrapper-offer img:nth-child(1){
+	width: 426.65px;
+	height: 64.97px;
+	margin-bottom: 10px;
+}
+
+.wrapper-offer span{
+	font-weight: 300;
+	font-size: 35px;
+	line-height: 43px;
+	margin-bottom: 67px;
+}
+
+.wrapper-offer img:nth-child(3){
+	width: 232.62px;
+	height: 189.85px;
+	margin-bottom: 70px;
+}
+/* End Offer */
+
+/* Main Content */
+.main-text p span{
+	color: #FF33AD;
+}
+
+.main-text p:not(:last-child){
+	margin-bottom: 35px;
+}
+
+.main-block{
+	margin-bottom: 130px;
+}
+/* Block "Teammates" */
+
+.block-about-teammates{
+	display: flex;
+	justify-content: space-between;
+	/* margin-left:auto; */
+}
+
+.item-person{
+	display: block;
+	width: 205px;
+	position: relative;
+	z-index: -1;
+}
+
+.item-person img{
+	width: 205px;
+	height: 205px;
+	margin-bottom: 24px;
+}
+
+.item-person h3{
+	margin-bottom: 24px;
+}
+
+.item-person h4{
+	position: absolute;
+	bottom: 0;
+}
+
+.item-person p{
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 0.02em;
+	margin-bottom: 86px;
+}
+/* End Block "Teammates" */
+
+
+/* Block "Join Team" */
+.join-team{
+	display: flex;
+	flex-direction: column;
+}
+
+.join-team h2{
+	margin-bottom: 10px;	
+}
+
+.join-team p:nth-child(2){
+	margin-bottom: 60px;
+}
+
+.join-team a, p:nth-child(2){
+	align-self: center;
+}
+
+.block-free-vacancies{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 130px;
+}
+/* End Block "Join Team" */
+
+
+/* Block "Progress" */
+.progress{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+/* .wrapper-info-block{ */
+	/* position: relative; */
+/* } */
+
+.wrapper-info-block::after{
+	content: "";
+	display: block;
+	position: relative;
+    z-index: -10;
+    top: -900px;
+    width: 1060px;
+    height: 900px;
+    background: #666;
+    border-radius: 20px;
+}
+
+.info-block {
+    width: 1088px;
+    height: 900px;
+    overflow-x: hidden;
+    border-radius: 25px;
+    padding: 30px 23px;
+}
+
+.info-block::-webkit-scrollbar {
+	border-radius: 12px;
+ 	width: 12px;
+	background: #666;
+}
+
+.info-block::-webkit-scrollbar-thumb{
+	width: 8px;
+    background: #FF33AD;;
+	border-radius: 12px;
+}
+
+.info-block-item{
+	margin-bottom: 45px;
+	width: 1012px;
+}
+
+.info-block-item img{
+	border-radius: 25px;
+	width: 1012px;
+	height: 694px;
+}
+
+.info-block-item p{
+	margin-bottom: 30px;
+	font-size: 24px;
+	line-height: 29px;
+	text-align: justify;
+	letter-spacing: 0.02em;
+}
+
+.info-top{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+/* .after-info-block {
+    position: absolute;
+    z-index: -10;
+    top: 0px;
+    right: 28px;
+    display: block;
+    width: 1060px;
+    height: 900px;
+    background: #666;
+    border-radius: 20px;
+} */
+/* End Block "Progress" */
+
+
+/* 1200px - 1400px */
+@media screen and (max-width: 1400px) {
+
+	
+}
+
+/* 992px - 1200px */
+@media screen and (max-width: 1200px) {
+	.after-info-block{
+		display: none;
+	}
+
+	.wrapper-info-block::after{
+		display: none;
+	}
+
+	.main-container{
+		width: 960px;
+	}
+	
+	.wrapper-header {
+		display: flex;
+		align-items: center;
+		justify-content: space-around;
+		padding: 10px 20px 0px 20px;
+	}
+
+	.nav-list li:not(:last-child) {
+		margin-right: 15px;
+	}
+
+	a {
+		font-weight: 600;
+		font-size: 13px;
+		line-height: 18px;
+		letter-spacing: 0.06em;
+		text-transform: lowercase;
+	}
+
+	.logo {
+		margin-right: 40px;
+	}
+
+	.container {
+		width: 960px;
+	}
+
+	.block-about-teammates {
+    	display: flex;
+		flex-wrap: wrap;
+    }
+
+	.block-about-teammates .item-person:nth-child(1), .block-about-teammates .item-person:nth-child(2){
+		margin-bottom: 50px;
+	}
+
+	.item-person {
+		width: 40%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.info-block {
+		width: 100%;
+		padding: 20px 0px 20px 22px;
+	}
+
+	.wrapper-info-block {
+		background: #666;
+		border-radius: 20px;
+	}
+	
+	.info-block-item img{
+		width: 100%;
+		height: 100%;
+	}
+
+	.after-info-block{
+		width: 100%;
+		height: 700px;
+		right: 0px;
+	}
+
+	.info-block-item{
+		width: 97%;
+	}
+
+	.info-block::-webkit-scrollbar {
+		display: none;
+	}
+}
+
+/* 768px - 992px */
+@media screen and (max-width: 992px) {
+	.main-container{
+		width: 720px;
+	}
+	.container {
+		width: 720px;
+	}
+
+	.contacts{
+		margin-top: 10px;
+	}
+
+	.contacts *{
+		text-align: left;
+	}
+	
+	.block-free-vacancies {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 130px;
+		flex-wrap: wrap;
+	}
+
+	.nav{
+		display: none;
+	}
+
+	.nav-list li:not(:last-child) {
+		margin-right: 24px;
+	}
+
+	.nav-hamburger{
+		position: relative;
+		display: flex;
+		background: rgb(255, 255, 255);
+		padding: 20px;
+		top: -300px;
+		transition: all 0.3s ease 0s;
+		z-index: 888;
+	}
+
+	.nav-hamburger.active{
+		top: 10px;
+		z-index: 888;
+	}
+
+	.nav-list{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		width: 79%;
+	}
+
+	.contacts *{
+		margin-bottom: 6px;		
+	}
+
+	.header a{
+		line-height: 0;
+		color: #000;
+	}
+
+	.top-nav {
+		justify-content: space-between;
+		align-items: center;
+		padding: 10px 20px 0 20px;
+	}
+
+	.wrapper-header {
+		display: flex;
+		align-items: stretch;
+		padding: 0;
+		flex-direction: column;
+	}
+
+	.hamburger{
+		display: block;
+		position: relative;
+		width: 30px;
+		height: 20px;
+	}
+
+	.hamburger span {
+		position: absolute;
+		background: #fff;
+		left: 0;
+		width: 100%;
+		height: 2px;
+		top: 9px;
+		transition: all 0.3s ease 0s;
+	}
+
+	.hamburger::before, .hamburger::after{
+		content: "";
+		background: #fff;
+		position: absolute;
+		width: 100%;
+		height: 2px;
+		left: 0;
+		transition: all 0.3s ease 0s;
+	}
+
+	.hamburger::before{
+		top: 0;
+	}
+
+	.hamburger::after{
+		bottom: 0;
+	}
+
+	.hamburger.active::before{
+		transform: rotate(45deg);
+		top: 9px;
+	}
+
+	.hamburger.active::after{
+		transform: rotate(-45deg);
+		bottom: 9px;
+	}
+
+	.hamburger.active span {
+		transform: scale(0);
+	}
+}
+
+/* 576px - 768px */
+@media screen and (max-width: 768px) {
+	.main-container {
+		width: 540px;
+	}
+	.container {
+		width: 540px;
+	}
+
+	.nav-list{
+		width: 70%;
+	}
+
+	.info-block {
+		padding: 20px 0px 20px 18px;
+	}
+}
+
+/* 320px - 576px */
+@media screen and (max-width: 576px) {
+	.main-container {
+		width: 90%;
+	}
+	.container {
+		width: 90%;
+	}
+
+	.nav-list{
+		width: 60%;
+	}
+
+	.info-block {
+		padding: 20px 0px 20px 17px;
+	}
+
+	.info-block-item {
+		width: 93%;
+	}
+
+	.item-person {
+    	width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.wrapper-offer img:nth-child(1) {
+		width: 100%;
+		height: 100%;
+		margin-bottom: 10px;
+	}
+
+	.wrapper-offer span{
+		text-align: center;
+	}
+
+	h2{
+		margin-bottom: 30px;
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	h3{
+		font-size: 14px;
+	}
+
+	h4{
+		font-size: 12px;
+	}
+
+	.wrapper-offer span{
+		font-size: 20px;
+	}
+
+	p {
+		font-size: 12px;
+		line-height: 15px;
+	}
+
+	.main-block{
+		margin-bottom: 60px;
+	}
+
+	.block-about-teammates .item-person:not(:last-child){
+		margin-bottom: 50px;
+	}
+
+	.item-person p{
+		margin-bottom: 50px;
+		font-size: 12px;
+		line-height: 15px;
+	}
+
+	.join-team p:nth-child(2){
+		margin-bottom: 20px;
+	}
+
+	.info-top{
+		font-size: 12px;
+	}
+
+	.info-block-item p{
+		font-size: 14px;
+		align-self: stretch;
+		text-align: left;
+	}
+
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     /* Main Part */
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 24px;
+	background: linear-gradient(175.68deg, #000000 12.33%, #006981 55.66%, #FF33AD 144.97%);
+	color: #fff;
+	overflow-x: hidden;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+	letter-spacing: 0.06em;
+    text-decoration: none;
+    list-style: none;
+	/* border: 1px solid red; */
+}
+
+li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+ul {
+    margin-left: 0; 
+    padding-left: 0;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+	font-weight: 600;
+	font-size: 15px;
+	letter-spacing: 0.06em;
+	text-transform: lowercase;
+}
+
+h2{
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 44px;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+h3{
+	font-weight: 700;
+	font-size: 18px;
+}
+
+h4{
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+p{
+	font-weight: 400;
+	line-height: 29px;
+	letter-spacing: 0.02em;
+}
+
+
+.main-btn{
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 29px;
+	letter-spacing: 0.02em;
+	background-image: linear-gradient(91.37deg, #27D8FF 0%, #FF33AD 100%);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 24px;
+	padding: 10px 16px;
+}
+
+/* Containers */
+.main-container{
+	width: 1312px;
+	margin: 0 auto;
+}
+
+.container{
+	width: 1090px;
+	margin: 0 auto;
+}
+/* End Containers */
+
+/* End Main Part */
+
+/* Header */
+.header{
+	display: block;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
+.header::before{
+	position: absolute;
+	z-index: 9999;
+	content: "";
+	display: block;
+	width: 100%;
+	background: #000;
+	height: 64px;
+}
+
+.wrapper-header{
+	display: flex;
+	align-items: center;
+	padding: 10px 64px 0px 64px;
+}
+
+.nav ul {
+    display: flex;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.top-nav{
+	display: flex;
+	width: 100%;
+	z-index: 10000;
+}
+
+.nav{
+	width: 100%;
+	display: flex;
+}
+
+.nav .contacts{
+	margin-left: auto;
+	text-align: right;
+}
+
+.nav-list li:not(:last-child){
+	margin-right: 24px;
+}
+
+.logo{
+	margin-right: 100px;
+}
+
+.contacts{
+	display: flex;
+	flex-direction: column;
+	margin-left: auto;
+}
+
+.contacts *{
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 15px;
+	text-align: right;
+	letter-spacing: 0.06em;
+	text-transform: lowercase;
+}
+
+/* Hamburger */
+
+.hamburger{
+	display: none;
+}
+
+.nav-hamburger{
+	display: none;
+}
+
+.navigation {
+	display: none;
+}
+/* End Hamburger */
+
+/* End Header */
+
+/* Offer */
+.offer{
+	margin: 130px 0px;
+}
+
+.wrapper-offer{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.wrapper-offer img:nth-child(1){
+	width: 426.65px;
+	height: 64.97px;
+	margin-bottom: 10px;
+}
+
+.wrapper-offer span{
+	font-weight: 300;
+	font-size: 35px;
+	line-height: 43px;
+	margin-bottom: 67px;
+}
+
+.wrapper-offer img:nth-child(3){
+	width: 232.62px;
+	height: 189.85px;
+	margin-bottom: 70px;
+}
+/* End Offer */
+
+/* Main Content */
+.main-text p span{
+	color: #FF33AD;
+}
+
+.main-text p:not(:last-child){
+	margin-bottom: 35px;
+}
+
+.main-block{
+	margin-bottom: 130px;
+}
+/* Block "Teammates" */
+
+.block-about-teammates{
+	display: flex;
+	justify-content: space-between;
+	/* margin-left:auto; */
+}
+
+.item-person{
+	display: block;
+	width: 205px;
+	position: relative;
+	z-index: -1;
+}
+
+.item-person img{
+	width: 205px;
+	height: 205px;
+	margin-bottom: 24px;
+}
+
+.item-person h3{
+	margin-bottom: 24px;
+}
+
+.item-person h4{
+	position: absolute;
+	bottom: 0;
+}
+
+.item-person p{
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 0.02em;
+	margin-bottom: 86px;
+}
+/* End Block "Teammates" */
+
+
+/* Block "Join Team" */
+.join-team{
+	display: flex;
+	flex-direction: column;
+}
+
+.join-team h2{
+	margin-bottom: 10px;	
+}
+
+.join-team p:nth-child(2){
+	margin-bottom: 60px;
+}
+
+.join-team a, p:nth-child(2){
+	align-self: center;
+}
+
+.block-free-vacancies{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 130px;
+}
+/* End Block "Join Team" */
+
+
+/* Block "Progress" */
+.progress{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+/* .wrapper-info-block{ */
+	/* position: relative; */
+/* } */
+
+.wrapper-info-block::after{
+	content: "";
+	display: block;
+	position: relative;
+    z-index: -10;
+    top: -900px;
+    width: 1060px;
+    height: 900px;
+    background: #666;
+    border-radius: 20px;
+}
+
+.info-block {
+    width: 1088px;
+    height: 900px;
+    overflow-x: hidden;
+    border-radius: 25px;
+    padding: 30px 23px;
+}
+
+.info-block::-webkit-scrollbar {
+	border-radius: 12px;
+ 	width: 12px;
+	background: #666;
+}
+
+.info-block::-webkit-scrollbar-thumb{
+	width: 8px;
+    background: #FF33AD;;
+	border-radius: 12px;
+}
+
+.info-block-item{
+	margin-bottom: 45px;
+	width: 1012px;
+}
+
+.info-block-item img{
+	border-radius: 25px;
+	width: 1012px;
+	height: 694px;
+}
+
+.info-block-item p{
+	margin-bottom: 30px;
+	font-size: 24px;
+	line-height: 29px;
+	text-align: justify;
+	letter-spacing: 0.02em;
+}
+
+.info-top{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+/* .after-info-block {
+    position: absolute;
+    z-index: -10;
+    top: 0px;
+    right: 28px;
+    display: block;
+    width: 1060px;
+    height: 900px;
+    background: #666;
+    border-radius: 20px;
+} */
+/* End Block "Progress" */
+
+
+/* 1200px - 1400px */
+@media screen and (max-width: 1400px) {
+
+	
+}
+
+/* 992px - 1200px */
+@media screen and (max-width: 1200px) {
+	.after-info-block{
+		display: none;
+	}
+
+	.wrapper-info-block::after{
+		display: none;
+	}
+
+	.main-container{
+		width: 960px;
+	}
+	
+	.wrapper-header {
+		display: flex;
+		align-items: center;
+		justify-content: space-around;
+		padding: 10px 20px 0px 20px;
+	}
+
+	.nav-list li:not(:last-child) {
+		margin-right: 15px;
+	}
+
+	a {
+		font-weight: 600;
+		font-size: 13px;
+		line-height: 18px;
+		letter-spacing: 0.06em;
+		text-transform: lowercase;
+	}
+
+	.logo {
+		margin-right: 40px;
+	}
+
+	.container {
+		width: 960px;
+	}
+
+	.block-about-teammates {
+    	display: flex;
+		flex-wrap: wrap;
+    }
+
+	.block-about-teammates .item-person:nth-child(1), .block-about-teammates .item-person:nth-child(2){
+		margin-bottom: 50px;
+	}
+
+	.item-person {
+		width: 40%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.info-block {
+		width: 100%;
+		padding: 20px 0px 20px 22px;
+	}
+
+	.wrapper-info-block {
+		background: #666;
+		border-radius: 20px;
+	}
+	
+	.info-block-item img{
+		width: 100%;
+		height: 100%;
+	}
+
+	.after-info-block{
+		width: 100%;
+		height: 700px;
+		right: 0px;
+	}
+
+	.info-block-item{
+		width: 97%;
+	}
+
+	.info-block::-webkit-scrollbar {
+		display: none;
+	}
+}
+
+/* 768px - 992px */
+@media screen and (max-width: 992px) {
+	.main-container{
+		width: 720px;
+	}
+	.container {
+		width: 720px;
+	}
+
+	.contacts{
+		margin-top: 10px;
+	}
+
+	.contacts *{
+		text-align: left;
+	}
+	
+	.block-free-vacancies {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 130px;
+		flex-wrap: wrap;
+	}
+
+	.nav{
+		display: none;
+	}
+
+	.nav-list li:not(:last-child) {
+		margin-right: 24px;
+	}
+
+	.nav-hamburger{
+		position: relative;
+		display: flex;
+		background: rgb(255, 255, 255);
+		padding: 20px;
+		top: -300px;
+		transition: all 0.3s ease 0s;
+		z-index: 888;
+	}
+
+	.nav-hamburger.active{
+		top: 10px;
+		z-index: 888;
+	}
+
+	.nav-list{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		width: 79%;
+	}
+
+	.contacts *{
+		margin-bottom: 6px;		
+	}
+
+	.header a{
+		line-height: 0;
+		color: #000;
+	}
+
+	.top-nav {
+		justify-content: space-between;
+		align-items: center;
+		padding: 10px 20px 0 20px;
+	}
+
+	.wrapper-header {
+		display: flex;
+		align-items: stretch;
+		padding: 0;
+		flex-direction: column;
+	}
+
+	.hamburger{
+		display: block;
+		position: relative;
+		width: 30px;
+		height: 20px;
+	}
+
+	.hamburger span {
+		position: absolute;
+		background: #fff;
+		left: 0;
+		width: 100%;
+		height: 2px;
+		top: 9px;
+		transition: all 0.3s ease 0s;
+	}
+
+	.hamburger::before, .hamburger::after{
+		content: "";
+		background: #fff;
+		position: absolute;
+		width: 100%;
+		height: 2px;
+		left: 0;
+		transition: all 0.3s ease 0s;
+	}
+
+	.hamburger::before{
+		top: 0;
+	}
+
+	.hamburger::after{
+		bottom: 0;
+	}
+
+	.hamburger.active::before{
+		transform: rotate(45deg);
+		top: 9px;
+	}
+
+	.hamburger.active::after{
+		transform: rotate(-45deg);
+		bottom: 9px;
+	}
+
+	.hamburger.active span {
+		transform: scale(0);
+	}
+}
+
+/* 576px - 768px */
+@media screen and (max-width: 768px) {
+	.main-container {
+		width: 540px;
+	}
+	.container {
+		width: 540px;
+	}
+
+	.nav-list{
+		width: 70%;
+	}
+
+	.info-block {
+		padding: 20px 0px 20px 18px;
+	}
+}
+
+/* 320px - 576px */
+@media screen and (max-width: 576px) {
+	.main-container {
+		width: 90%;
+	}
+	.container {
+		width: 90%;
+	}
+
+	.nav-list{
+		width: 60%;
+	}
+
+	.info-block {
+		padding: 20px 0px 20px 17px;
+	}
+
+	.info-block-item {
+		width: 93%;
+	}
+
+	.item-person {
+    	width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.wrapper-offer img:nth-child(1) {
+		width: 100%;
+		height: 100%;
+		margin-bottom: 10px;
+	}
+
+	.wrapper-offer span{
+		text-align: center;
+	}
+
+	h2{
+		margin-bottom: 30px;
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	h3{
+		font-size: 14px;
+	}
+
+	h4{
+		font-size: 12px;
+	}
+
+	.wrapper-offer span{
+		font-size: 20px;
+	}
+
+	p {
+		font-size: 12px;
+		line-height: 15px;
+	}
+
+	.main-block{
+		margin-bottom: 60px;
+	}
+
+	.block-about-teammates .item-person:not(:last-child){
+		margin-bottom: 50px;
+	}
+
+	.item-person p{
+		margin-bottom: 50px;
+		font-size: 12px;
+		line-height: 15px;
+	}
+
+	.join-team p:nth-child(2){
+		margin-bottom: 20px;
+	}
+
+	.info-top{
+		font-size: 12px;
+	}
+
+	.info-block-item p{
+		font-size: 14px;
+		align-self: stretch;
+		text-align: left;
+	}
+
+}
