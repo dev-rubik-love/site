@@ -1,0 +1,2 @@
+Pin button as footer to bottom of page
+
