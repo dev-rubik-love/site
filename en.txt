@@ -1,2 +1,161 @@
 - 25% of TInder. Is Tinder getting the best auditory, the cheapiest one and payable one?
-- Quality over quantity. 
+- Quality over quantity.
+
+
+- Are we tinder?
+- We are in a sense anti-tinder.
+Tinder puts looks first.
+We put the inner world first.
+(We are the inner world.)
+
+
+
+- Tinder has collected the most juicy target audience (cheapest + payment + available) ?
+- Quality over Quantity.
+Tinder collects people under the slogan "quickly".
+We gather people under the slogan "Quality".
+Which of these audiences brings more profit is an open question.
+
+
+//We collect a higher quality audience, payment method 
+
+
+QA
+- Are we "Tinder" or same to it?
+- No. We are in a sense anti-tinder.
+Tinder puts outer looks first.
+We put the inner world first.
+We are the same in our goal to connect the people. We are totally different in our way to do it.
+
+- Are we "LinkedIn" or same to it?
+- No, "LinkedIn" misses all valuable meta-information of the user, he knows nothing about a user mindset.
+It can tell you is someone experienced enough, but it never will not answer is you looking the same.
+
+- Are you exactly social network or dating service?
+- Exactly, 50/50! We are the service that can connect people by their mindset.
+What we can with it is secondary question.
+//We can archive both these goals with it.
+We will do analyzing of user behavior to answer on this question more precisely.
+
+
+- Why you at times calling you social network or dating service?
+- Like 20 years ago, there is no (yet) a special word / term to describe what we're doing.
+Well, I'm using the word that more (precisely ?*) suitable for that special case (depending on our characteristics?*).
+
+A note about terms and tech side:
+In words of terms, dating service and social network are interchangeable.
+Any dating service has option to find friends rather than a partner.
+Any social network may serve to dating goal.
+Practically, dating service is special case of social network with concrete goal.
+
+
+How to use the app:
+
+1. Like the posts what you are liking.
+2. Open the result tab with people that has similar mindset with you (or vice versa, the different).
+3. Explore and choose the people that are looks cool for you.
+4. Enjoy! You can speak with them about any posts that you both liked or not
+
+Monetization:
+Personal data of user preferences (posts that he's liking?*), got directly from him,
+giving us a great abilities for monetization.
+
+Paid personal functionality.
+Target ads based on algorithm result.
+Subscription to extended options,
+Personal ads by markets.
+
+
+Ability 1:
+Paid personal functionality.
+Broad set of functionality allows us data
+Some special sorts (cases?*) requires more calculation and has the highest cost.
+It's honest to get back money from the user for it.
+For example: The user want to get people in backward order (from lowest to highest mindset correspondence).
+It's demands additional calculations and will be provided as paid functionality.
+
+Example of paid functionality:
+1. Backward order of result (people comes from lowest to highest mindset correspondence).
+2. Posts creation. Posts made by service editor, but user may buy ability to create self posts.
+3. User defined match range. People will get matches only in set range, 40%-60%, > 90% or any other ranges.
+4. Get specialized set of people that may be interested to user, made by extended set of analytic tools.
+
+Example of personal and target ad:
+1. Post with a good that similar to already liked good by a user.
+2. Post from well known brands. It may be "Dior" perfume or "Domino's" pizza.
+3. Post wil local places or events. It may be a new opened restaurant or rock concert.
+
+
+Subscription with extended options.
+This is profit model of most dating services.
+Examples of personal and target ad:
+1. Post with a good that similar to already liked good by a user.
+2. Post from well known brands. It may be "Dior" perfume or "Domino's" pizza.
+3. Post wil local places or events. It may be a new opened restaurant or rock concert.
+4. Post with a user that want to become more popular (That approach (model ?*) similar to regular dating services).
+
+
+Every action from this list requiring extended calculation.
+(Moreover, we can set any price for additional calculation to a users like "Amazon" does it ?*)
+It's only a functions that we are already predicts.
+
+
+
+We can provide a flex profit model:
+
+How we behave:
+We're taking existing model of social networks / dating services and breaking a great contradiction.
+
+- Why current dating services don't meet the demand?
+- The heart of a regular dating service is total contradiction.
+He has to get the client for X money and get from him 2X money.
+At the moment when the client gets what he wants, finds a friend, soul mate or a partner, he's leaving the platform.
+The service will never to lose a client who pays, the client will never to get what he is findings for.
+We are solved this fundamental contradiction (here link)
+
+
+Why we are reminiscent to google?
+We have the similar algorithm, google meet for sites, we meet for people.
+The very base and very first google algorithm was doing the next:
+Other search engines ("Yahoo", "AltaVista", etc) was giving result by count of target words on the site page.
+Google starts to give result by count of target links. Goog sites has more links that leads to them.
+Other "Search people engines" giving result by count of target words in the user biography.
+Rubik starts to give result by count of target posts. Goog matching people has more matched posts that leads only to them.
+
+
+- Why we are reminiscent to asymmetric cryptography encryption?
+- The heart of asymmetric encryption is an idea that we can't do something to be 100% endless in universe,
+but we doing it so long that it's 100% enough for our whole life.
+We are used the same idea. Dating services paradox of X and 2X can't be solved endless for 100%.
+But we're doing that for so long that enough for whole human life.
+
+
+(- Why you algorithm reminiscent to google?*)
+- How google algorithm works and why you algorithm reminiscent to google?
+The very base and very first google algorithm was doing the next:
+Other search engines ("Yahoo", "AltaVista", etc) was angering sites
+
+
+(- Why current dating services are not working?*)
+- Why people wants one more dating service?
+- Current dating services are not working. This is proven by their quantity and sameness.
+If at least 1 of them worked, he would fill the entire niche.
+This is reminiscent of the abundance of forums before the coming of social networks.
+
+- How did you solve this great contradiction?
+
+- Who is yor target audience?
+
+- Our target audience is people who want to get result with another point between quantity and quality.
+(
+- people who want to get matches and connections, proved by some metric.
+- people who want to get matches and connections, proved by some metric.
+- people who want to get matches and connections with some metric proof
+- people who want to get not so trash matches and connections as it exists now.
+There are point between)
+
+
+- Why we are ultimately better than all other dating services?
+Other dating services able to provide result with only strictly limited quantity-quality point.
+We can produce result with any quantity-quality point.
+
