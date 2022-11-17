@@ -1,13 +1,5 @@
-- 25% of TInder. Is Tinder getting the best auditory, the cheapiest one and payable one?
+- 25% of TInder. Is Tinder getting the best auditory, the cheapest one and payable one?
 - Quality over quantity.
-
-
-- Are we tinder?
-- We are in a sense anti-tinder.
-Tinder puts looks first.
-We put the inner world first.
-(We are the inner world.)
-
 
 
 - Tinder has collected the most juicy target audience (cheapest + payment + available) ?
@@ -15,21 +7,25 @@ We put the inner world first.
 Tinder collects people under the slogan "quickly".
 We gather people under the slogan "Quality".
 Which of these audiences brings more profit is an open question.
-
-
 //We collect a higher quality audience, payment method 
 
 
-QA
+QA:
+
 - Are we "Tinder" or same to it?
 - No. We are in a sense anti-tinder.
 Tinder puts outer looks first.
 We put the inner world first.
 We are the same in our goal to connect the people. We are totally different in our way to do it.
+<!--- No, by 2 reasons: <br> -->
+<!--1. "LinkedIn" user should "manually" manage his space. -->
+<!--We are different from all kinds of existing the networks.-->
+
 
 - Are we "LinkedIn" or same to it?
 - No, "LinkedIn" misses all valuable meta-information of the user, he knows nothing about a user mindset.
 It can tell you is someone experienced enough, but it never will not answer is you looking the same.
+
 
 - Are you exactly social network or dating service?
 - Exactly, 50/50! We are the service that can connect people by their mindset.
@@ -114,7 +110,11 @@ The service will never to lose a client who pays, the client will never to get w
 We are solved this fundamental contradiction (here link)
 
 
-Why we are reminiscent to google?
+ADDED:
+
+
+1.
+- Why we are reminiscent to google?
 We have the similar algorithm, google meet for sites, we meet for people.
 The very base and very first google algorithm was doing the next:
 Other search engines ("Yahoo", "AltaVista", etc) was giving result by count of target words on the site page.
@@ -123,6 +123,7 @@ Other "Search people engines" giving result by count of target words in the user
 Rubik starts to give result by count of target posts. Goog matching people has more matched posts that leads only to them.
 
 
+2.
 - Why we are reminiscent to asymmetric cryptography encryption?
 - The heart of asymmetric encryption is an idea that we can't do something to be 100% endless in universe,
 but we doing it so long that it's 100% enough for our whole life.
@@ -130,19 +131,19 @@ We are used the same idea. Dating services paradox of X and 2X can't be solved e
 But we're doing that for so long that enough for whole human life.
 
 
-(- Why you algorithm reminiscent to google?*)
-- How google algorithm works and why you algorithm reminiscent to google?
-The very base and very first google algorithm was doing the next:
-Other search engines ("Yahoo", "AltaVista", etc) was angering sites
-
-
+3.
 (- Why current dating services are not working?*)
 - Why people wants one more dating service?
 - Current dating services are not working. This is proven by their quantity and sameness.
 If at least 1 of them worked, he would fill the entire niche.
 This is reminiscent of the abundance of forums before the coming of social networks.
 
+
+4.
 - How did you solve this great contradiction?
+?
+
+
 
 - Who is yor target audience?
 
@@ -159,3 +160,24 @@ There are point between)
 Other dating services able to provide result with only strictly limited quantity-quality point.
 We can produce result with any quantity-quality point.
 
+
+# NOT ADDED:
+- How did you solve the contradiction of "X and 2X" of dating services?
+- Three points:
+
+1. We combined dating service and social network.
+Now if user will get what he wants, let's say the soul-mate - he is still interested in two other goals:
+find a new friends, find a new partners. Because of these 3 things consist our life. Soul-mate, friends, partners.
+At least two of them we always want to find new.
+
+2. If user will leave the platform - he will miss a quality of his personal grid.
+Because the quality of grid increase every day. Missed days can't be restored.
+Moreover, every day has his own exclusive value for every user.
+The wish to get rarely personal exclusive value will attract user at least open the platform once a day.
+
+3. We can control how fast user will find a new friends, partners, soul-mate.
+Because getting too many friends, partners or soul-mates will decrease the valuable of these important things in the life.
+We are appreciate and loving these things and will try to balance between quality and quantity.
+This flow becomes endless just like a life of man. friends and build the personal grid around itself.
+Every person always interesting in We know how to remain regular customers even after X's point of view when he finds partner.
+We stretched the process, smoothed out sharp corners, and made it endless.
