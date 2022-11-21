@@ -1,42 +1,66 @@
-- 25% of TInder. Is Tinder getting the best auditory, the cheapest one and payable one?
-- Quality over quantity.
+MAKE MANY (25) STAGES
+
+IDEAS:
+1. Likes for system (to sort people by view, or etc)
+2. Profile is also a card
+3. Person is set of cards (it can be used as representation even for users)
+4. Self-made cards to user for profile personalization
+5. Make filter (in %) to start the chat
+6.
 
 
-- Tinder has collected the most juicy target audience (cheapest + payment + available) ?
-- Quality over Quantity.
-Tinder collects people under the slogan "quickly".
-We gather people under the slogan "Quality".
-Which of these audiences brings more profit is an open question.
-//We collect a higher quality audience, payment method 
+THE QUESTIONS:
+1. Main content is people or cards (interests) ?
+2. Motiv is swipes or content ?
+
+
+MOTES:
+1. Like - swipe - chat
+2. Don't use experience when you can use the math.
+
+
+The problem for auditory:
+1. Problem for auditory (not enough quality of match algorithm)
+
+The solution:
+1. Are we can meet the demand, provide enough solution (a good match quality).
+2. Two persons should become more closely step by step, it can't be immediately.
+
+
+
+Hypotheses and metrics:
+1. CSAT
+2. NPS
+3. DAU (daily active users)
+4. MAU (mouth active users)
+5. WAU (week active users)
+6. Group speed of users num
+7. Check the algorithm quality by some metric (by miss swipes) ?
+
+
+
+
+The ultimate:
+1. people along the whole world. There are 7 000 000 000 people that we can split.
+2. We can not solve the problem, but we definitely worst to check us and our algorithm.
+3. "Zacepka" - the point to start chat/date.
+4. Flexibility over abstraction (neponimanie)
+5. No any communication action may have enough quality without this algorithm (kadri reshaut vse).
+
+
+MISCELLANEOUS:
+1. Why most of dating apps has no good filters
+2.
+
+
+AXIOMS:
+1. Algorithm is required part of our dating app.
 
 
 QA:
 
-- Are we "Tinder" or same to it?
-- No. We are in a sense anti-tinder.
-Tinder puts outer looks first.
-We put the inner world first.
-We are the same in our goal to connect the people. We are totally different in our way to do it.
-<!--- No, by 2 reasons: <br> -->
-<!--1. "LinkedIn" user should "manually" manage his space. -->
-<!--We are different from all kinds of existing the networks.-->
+New: Our vision of success
 
-
-- Are we "LinkedIn" or same to it?
-- No, "LinkedIn" misses all valuable meta-information of the user, he knows nothing about a user mindset.
-It can tell you is someone experienced enough, but it never will not answer is you looking the same.
-
-
-- Are you exactly social network or dating service?
-- Exactly, 50/50! We are the service that can connect people by their mindset.
-What we can with it is secondary question.
-//We can archive both these goals with it.
-We will do analyzing of user behavior to answer on this question more precisely.
-
-
-- Why you at times calling you social network or dating service?
-- Like 20 years ago, there is no (yet) a special word / term to describe what we're doing.
-Well, I'm using the word that more (precisely ?*) suitable for that special case (depending on our characteristics?*).
 
 A note about terms and tech side:
 In words of terms, dating service and social network are interchangeable.
@@ -44,13 +68,6 @@ Any dating service has option to find friends rather than a partner.
 Any social network may serve to dating goal.
 Practically, dating service is special case of social network with concrete goal.
 
-
-How to use the app:
-
-1. Like the posts what you are liking.
-2. Open the result tab with people that has similar mindset with you (or vice versa, the different).
-3. Explore and choose the people that are looks cool for you.
-4. Enjoy! You can speak with them about any posts that you both liked or not
 
 Monetization:
 Personal data of user preferences (posts that he's liking?*), got directly from him,
@@ -112,37 +129,12 @@ We are solved this fundamental contradiction (here link)
 
 ADDED:
 
-
-1.
-- Why we are reminiscent to google?
-We have the similar algorithm, google meet for sites, we meet for people.
-The very base and very first google algorithm was doing the next:
-Other search engines ("Yahoo", "AltaVista", etc) was giving result by count of target words on the site page.
-Google starts to give result by count of target links. Goog sites has more links that leads to them.
-Other "Search people engines" giving result by count of target words in the user biography.
-Rubik starts to give result by count of target posts. Goog matching people has more matched posts that leads only to them.
-
-
-2.
-- Why we are reminiscent to asymmetric cryptography encryption?
-- The heart of asymmetric encryption is an idea that we can't do something to be 100% endless in universe,
-but we doing it so long that it's 100% enough for our whole life.
-We are used the same idea. Dating services paradox of X and 2X can't be solved endless for 100%.
-But we're doing that for so long that enough for whole human life.
-
-
 3.
 (- Why current dating services are not working?*)
 - Why people wants one more dating service?
 - Current dating services are not working. This is proven by their quantity and sameness.
 If at least 1 of them worked, he would fill the entire niche.
 This is reminiscent of the abundance of forums before the coming of social networks.
-
-
-4.
-- How did you solve this great contradiction?
-?
-
 
 
 - Who is yor target audience?
@@ -161,23 +153,26 @@ Other dating services able to provide result with only strictly limited quantity
 We can produce result with any quantity-quality point.
 
 
-# NOT ADDED:
-- How did you solve the contradiction of "X and 2X" of dating services?
-- Three points:
+----------------
+FIRST APP WITH NO NEED TO THINK WHAT TO WRITE TO ANOTHER USE
+----------------
+SALE THE ALGORITHM?
+----------------
+SPLIT "1000" FOR ABS STRATEGY TESTS
+----------------
+SHORT METRIC OF USERS GROW UP QUANTITY.
+----------------
 
-1. We combined dating service and social network.
-Now if user will get what he wants, let's say the soul-mate - he is still interested in two other goals:
-find a new friends, find a new partners. Because of these 3 things consist our life. Soul-mate, friends, partners.
-At least two of them we always want to find new.
+USER BEHAVIOR HYPOTHESES:
+1. Like cards - swipe users - chat
+2. Swipe users - Like cards - Chat
+3.
 
-2. If user will leave the platform - he will miss a quality of his personal grid.
-Because the quality of grid increase every day. Missed days can't be restored.
-Moreover, every day has his own exclusive value for every user.
-The wish to get rarely personal exclusive value will attract user at least open the platform once a day.
 
-3. We can control how fast user will find a new friends, partners, soul-mate.
-Because getting too many friends, partners or soul-mates will decrease the valuable of these important things in the life.
-We are appreciate and loving these things and will try to balance between quality and quantity.
-This flow becomes endless just like a life of man. friends and build the personal grid around itself.
-Every person always interesting in We know how to remain regular customers even after X's point of view when he finds partner.
-We stretched the process, smoothed out sharp corners, and made it endless.
+Bad cases:
+Let's explore a few practical cases:
+1. 0% of success: The bad one
+2. 20% of success:
+
+
+Stages of success to user
