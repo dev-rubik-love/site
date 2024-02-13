@@ -16,10 +16,12 @@
         };
 
         // Проверяем URL на наличие указателя на русскую версию
-        var redirectSettings = window.location.href.includes("/ru/") ? redirectSettingsRu : redirectSettingsEn;
+        // var redirectSettings = window.location.href.includes("/ru/") ? redirectSettingsRu : redirectSettingsEn;
+
+        var defaultRedirectSettings = redirectSettingsRu;
 
         // Устанавливаем заголовок страницы
-        document.title = redirectSettings.title;
+        document.title = defaultRedirectSettings.title;
     </script>
 </head>
 <body>
@@ -27,10 +29,10 @@
 
     <script>
         // Применяем сообщение редиректа
-        document.getElementById("redirectMessage").textContent = redirectSettings.message;
+        document.getElementById("redirectMessage").textContent = defaultRedirectSettings.message;
 
         // Выполняем редирект
-        window.location.href = redirectSettings.path;
+        window.location.href = defaultRedirectSettings.path;
     </script>
 </body>
 </html>
