@@ -4,19 +4,16 @@
     <meta charset="UTF-8">
     <script>
         var redirectSettingsEn = {
-            path: "/en/",
+            path: "en/",
             message: "Redirecting to English version...",
             title: "Redirecting to English version..."
         };
 
         var redirectSettingsRu = {
-            path: "/ru/",
+            path: "ru/",
             message: "Перенаправление на русскую версию...",
             title: "Перенаправление на русскую версию..."
         };
-
-        // Проверяем URL на наличие указателя на русскую версию
-        // var redirectSettings = window.location.href.includes("/ru/") ? redirectSettingsRu : redirectSettingsEn;
 
         var defaultRedirectSettings = redirectSettingsRu;
 
