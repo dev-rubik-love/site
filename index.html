@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script>
+        var redirectSettingsEn = {
+            path: "/en/",
+            message: "Redirecting to English version...",
+            title: "Redirecting to English version..."
+        };
+
+        var redirectSettingsRu = {
+            path: "/ru/",
+            message: "Перенаправление на русскую версию...",
+            title: "Перенаправление на русскую версию..."
+        };
+
+        // Проверяем URL на наличие указателя на русскую версию
+        var redirectSettings = window.location.href.includes("/ru/") ? redirectSettingsRu : redirectSettingsEn;
+
+        // Устанавливаем заголовок страницы
+        document.title = redirectSettings.title;
+    </script>
+</head>
+<body>
+    <p id="redirectMessage"></p>
+
+    <script>
+        // Применяем сообщение редиректа
+        document.getElementById("redirectMessage").textContent = redirectSettings.message;
+
+        // Выполняем редирект
+        window.location.href = redirectSettings.path;
+    </script>
+</body>
+</html>
