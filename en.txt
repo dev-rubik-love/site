@@ -181,3 +181,113 @@ Stages of success to user
 
 
 Why now - project is growing (it become hard to maintain ?)
+
+
+Является ли дэйтинг красной зоной?
+Дэйтинг красная зона потому что все предлагают одинаковые решения и никто не может . 
+Мы пришли в эту зону и хотим сделать революцию.
+
+Красная зона это плохо?
+Красная зона это плохо если вы обычный.
+Красная зона это хорошо, потому что это много клиентов.
+Уберите с этих приложений логотип и вы не поймете каким сервисом вы пользуететсь.
+
+
+Что бы делать деньги - нужно порождать спрос.
+Мы можем генерировать очень много спроса комбинируя хобби.
+У каждого спроса есть 3 составляющие:
+Аудитория, Контент, Интеракция (взаимодействие).
+
+Каждую из этих неизветных мы можем комбинировать:
+
+Аудитория - Люди, которые любят суши и бальные танцы.
+Контент - Арт выставка Ван Гога.
+# Интеракция - Обсуждение уникальные синий оттенок в его работах.
+
+Звучит как бред, но такие люди есть. 
+Если их много - здорово.
+Если их мало - тем важнее наш сервис для них.
+
+Зная хобби людей, мы можем бесконечно генерировать спрос:
+Аудитория - Люди, которые любят футбол и бокс + еще 5 модификаторов.
+Контент - Арт выставка Ван Гога.
+# Интеракция - Обсуждение уникальные синий оттенок в его работах.
+
+
+Если вы любите футбол - вы пойдете на ближайший матч, съедите хот-дог и купите мерч.
+Но что если вы хотите салат, а не хот-дог?
+Такие люди есть, но вы о них никогда не узнаете, потому что все будут рекламировать
+Блитеы, хот-доги и мерч.
+
+
+Любой маркетолог вам скажет, если вы любите бег - 
+вам скорее всего 20 -35 лет, у вас двое детей и вы работаете 
+Но что если вы хотите салат, а не хот-дог?
+Такие люди есть, но вы о них никогда не узнаете, потому что все будут рекламировать
+Блитеы, хот-доги и мерч.
+
+
+Существует ли зависимость между людьми, которые любят суши и хип-хоп?
+Никто не знает, но мы можем узнать. Это ультракачестванная целевая реклама.
+
+
+Езда на мотоциклах в кигуруми - пожалуйста!
+Кино для любителей лдакузи 
+
+Я знаю, это звучит как магия, потому что это и есть магия.
+Это очень сильная идея.
+
+
+Обратная ситуация:
+Я хочу пойти на выставку толюко если на нее пойдут 
+
+Кейс 1:
+Я люблю компьютреные игры и я хочу сходить в театр - мне не нужно гуглить все представления и тратить на это 3 часа.
+Мне нужно всего-лишь найти людей, которые любят компьютерные игры и уже были в театре!
+Они оставят отзыв, который будет релевантен именн мне.
+
+Кейс 2:
+Я люблю искусство. Я пойду на выставку только, если туда пойдет кто-нибудь, с кем мне будет интересно общаться.
+Что-бы это свершилось - нужно 2 условия:
+1. Должен быть человек, который пойдет.
+2. Этот человек должен разделять мои интересы.
+Это событие никогда не поизойдет, потому что: 
+я не знаю кто идет, я не могу узнать интересы другого человека.
+
+
+TL:TD;
+Site: https://www.rubik-love.ru/
+MVP: https://t.me/Rubik_Love_bot
+
+About us:
+We are thrilled to build a social network where people may interact by their common hobbies and interests.
+Imagine you can quickly find a person who shares all your ideas with 80%,
+or shares all your ideas with 100% about the green-world, or political opinion or ...
+That is what we are building.
+I have a personal dream to find the people who like football and biking -
+I know the football community, I know the biking community but I will never find them because
+their content never be merged, it filled only with football or only with biking correspondingly.
+
+Our mission: Connect people by their hobbies. Sort people by mindset. Increase interactivity of online communication.
+
+What problem we are solving:
+Today if you have some hobby - you can't easily find the community that sharing your hobby.
+You should 
+Current social-networks like FB, LinkedIn, Tinder, etc not providing a good ability to  
+
+How it works:
+We generate content, tracking people likes, matching people according to their likes. 
+
+Who I am:
+Developer with 6 years of experience.
+
+Who we are:
+The team that is inspired by the idea of matching people by their likes.
+
+
+- - - 
+Every post, every event, even every word sometimes - it's a small community, it's a separate personal world.
+Today social networks ignores that worlds.
+
+
+You sharing the community hobbies, but not a community your hobbies!
